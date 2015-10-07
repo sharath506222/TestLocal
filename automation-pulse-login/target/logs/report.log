@@ -1,0 +1,620 @@
+2015-10-06 19:10:01 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:10:01 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:10:01 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:10:01 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:10:01 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:10:01 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:10:03 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:10:03 INFO : Entering Text
+2015-10-06 19:10:03 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:10:09 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:10:09 INFO : Entering Text
+2015-10-06 19:10:09 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:10:14 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:10:15 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:10:15 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt becomes invisible
+2015-10-06 19:10:18 DEBUG: Checking the presence of the Element: name;Dashboard : name;Dashboard
+2015-10-06 19:10:18 DEBUG: Element is present: By.name: Dashboard
+2015-10-06 19:10:18 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/logout_txt
+2015-10-06 19:10:18 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/logout_txt becomes invisible
+2015-10-06 19:10:19 DEBUG: Checking the presence of the Visble: id;com.pearson.android.pulse.dev:id/logout_txt : id;com.pearson.android.pulse.dev:id/logout_txt
+2015-10-06 19:10:28 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:10:28 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:10:28 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:10:28 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:10:28 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:10:28 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:10:30 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:10:30 INFO : Entering Text
+2015-10-06 19:10:30 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:10:35 INFO : Entered invalid@invalid.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:10:35 INFO : Entering Text
+2015-10-06 19:10:35 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:10:41 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:10:42 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:10:42 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 19:10:44 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:10:44 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:10:55 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:10:55 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:10:55 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:10:56 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:10:56 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:10:56 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:10:57 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:10:58 INFO : Entering Text
+2015-10-06 19:10:58 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:11:03 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:11:03 INFO : Entering Text
+2015-10-06 19:11:03 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:11:09 INFO : Entered invalid12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:11:10 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:11:10 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 19:11:13 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:11:13 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:11:23 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:11:23 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:11:23 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:11:23 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:11:24 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:11:24 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:11:25 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:11:25 INFO : Entering Text
+2015-10-06 19:11:25 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:11:30 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:11:30 INFO : Entering Text
+2015-10-06 19:11:30 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:11:35 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:11:36 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:11:36 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 19:11:36 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:11:36 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:11:46 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:11:46 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:11:46 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:11:47 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:11:47 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:11:47 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:11:48 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:11:48 INFO : Entering Text
+2015-10-06 19:11:48 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:11:54 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:11:54 INFO : Entering Text
+2015-10-06 19:11:54 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:11:59 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:12:00 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:12:00 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 19:12:00 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:12:01 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:12:10 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:12:10 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:12:10 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:12:11 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:12:11 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:12:11 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:12:12 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:12:12 INFO : Entering Text
+2015-10-06 19:12:12 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:12:18 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:12:18 INFO : Entering Text
+2015-10-06 19:12:18 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:12:25 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:12:26 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:12:26 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 19:12:27 INFO : Waiting until the text password is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:12:27 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 19:13:14 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:13:14 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:13:14 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:13:14 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:13:15 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:13:15 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:13:16 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:13:16 INFO : Entering Text
+2015-10-06 19:13:16 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:13:21 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:13:21 INFO : Entering Text
+2015-10-06 19:13:21 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:13:27 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:13:28 INFO : Rotated screen to LANDSCAPE
+2015-10-06 19:13:28 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 19:13:28 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 19:13:28 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:13:29 INFO : Rotated screen to LANDSCAPE
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 19:13:29 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:13:29 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 19:13:43 INFO : Set device screen in PORTRAINT mode
+2015-10-06 19:13:43 INFO : Checking for TestFairy Security Popup
+2015-10-06 19:13:43 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 19:13:43 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 19:13:44 INFO : Clicked on element: By.name: Yes
+2015-10-06 19:13:44 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 19:13:45 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 19:13:45 INFO : Entering Text
+2015-10-06 19:13:45 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 19:13:51 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 19:13:51 INFO : Entering Text
+2015-10-06 19:13:51 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 19:13:56 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 19:13:57 INFO : Screen will be locked for 5 seconds
+2015-10-06 19:13:57 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 19:13:57 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:15:20 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:15:20 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:15:20 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:15:20 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:15:22 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:15:22 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:15:23 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:15:23 INFO : Entering Text
+2015-10-06 20:15:23 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:15:29 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:15:29 INFO : Entering Text
+2015-10-06 20:15:29 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:15:35 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:15:36 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:15:36 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt becomes invisible
+2015-10-06 20:15:44 DEBUG: Checking the presence of the Element: name;Dashboard : name;Dashboard
+2015-10-06 20:15:44 DEBUG: Element is present: By.name: Dashboard
+2015-10-06 20:15:45 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/logout_txt
+2015-10-06 20:15:45 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/logout_txt becomes invisible
+2015-10-06 20:15:47 DEBUG: Checking the presence of the Visble: id;com.pearson.android.pulse.dev:id/logout_txt : id;com.pearson.android.pulse.dev:id/logout_txt
+2015-10-06 20:16:07 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:16:07 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:16:07 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:16:07 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:16:08 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:16:08 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:16:09 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:16:10 INFO : Entering Text
+2015-10-06 20:16:10 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:16:16 INFO : Entered invalid@invalid.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:16:16 INFO : Entering Text
+2015-10-06 20:16:16 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:16:23 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:16:24 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:16:24 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 20:16:29 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:16:30 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:16:49 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:16:49 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:16:49 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:16:49 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:16:50 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:16:50 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:16:52 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:16:53 INFO : Entering Text
+2015-10-06 20:16:53 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:16:59 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:16:59 INFO : Entering Text
+2015-10-06 20:16:59 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:17:05 INFO : Entered invalid12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:17:06 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:17:06 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 20:17:09 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:17:09 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:17:28 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:17:28 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:17:28 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:17:28 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:17:29 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:17:29 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:17:32 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:17:32 INFO : Entering Text
+2015-10-06 20:17:32 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:17:37 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:17:37 INFO : Entering Text
+2015-10-06 20:17:37 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:17:42 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:17:42 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:17:42 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 20:17:43 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:17:43 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:18:04 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:18:04 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:18:04 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:18:04 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:18:06 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:18:06 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:18:06 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:18:07 INFO : Entering Text
+2015-10-06 20:18:07 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:18:13 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:18:13 INFO : Entering Text
+2015-10-06 20:18:13 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:18:19 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:18:20 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:18:20 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 20:18:21 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:18:21 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:18:41 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:18:41 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:18:41 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:18:41 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:18:42 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:18:42 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:18:44 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:18:45 INFO : Entering Text
+2015-10-06 20:18:45 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:18:50 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:18:50 INFO : Entering Text
+2015-10-06 20:18:50 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:18:57 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:18:57 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:18:57 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-06 20:18:58 INFO : Waiting until the text password is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:18:58 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-06 20:19:15 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:19:15 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:19:15 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:19:15 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:19:17 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:19:17 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:19:18 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:19:18 INFO : Entering Text
+2015-10-06 20:19:18 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:19:24 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:19:24 INFO : Entering Text
+2015-10-06 20:19:24 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:19:30 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:19:31 INFO : Rotated screen to LANDSCAPE
+2015-10-06 20:19:31 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:19:31 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:19:31 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 20:19:31 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 20:19:31 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 20:19:32 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 20:19:32 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:19:32 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:19:32 INFO : Rotated screen to LANDSCAPE
+2015-10-06 20:19:32 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:19:32 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:19:32 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 20:19:33 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-06 20:19:33 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 20:19:33 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-06 20:19:33 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:19:34 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-06 20:19:53 INFO : Set device screen in PORTRAINT mode
+2015-10-06 20:19:53 INFO : Checking for TestFairy Security Popup
+2015-10-06 20:19:53 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 20:19:53 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 20:19:54 INFO : Clicked on element: By.name: Yes
+2015-10-06 20:19:54 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 20:19:56 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 20:19:56 INFO : Entering Text
+2015-10-06 20:19:56 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 20:20:03 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 20:20:03 INFO : Entering Text
+2015-10-06 20:20:03 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-06 20:20:09 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-06 20:20:09 INFO : Screen will be locked for 5 seconds
+2015-10-06 20:20:10 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 20:20:10 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-06 22:31:03 INFO : Set device screen in PORTRAINT mode
+2015-10-06 22:31:03 INFO : Checking for TestFairy Security Popup
+2015-10-06 22:31:03 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-06 22:31:03 DEBUG: Element is present: By.name: NOTICE
+2015-10-06 22:31:04 INFO : Clicked on element: By.name: Yes
+2015-10-06 22:31:04 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-06 22:31:05 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-06 22:31:06 INFO : Entering Text
+2015-10-06 22:31:06 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-06 22:31:11 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-06 22:31:11 INFO : Entering Text
+2015-10-06 22:31:11 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:04:12 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:04:12 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:04:12 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:04:12 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:04:13 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:04:13 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:04:14 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:04:14 INFO : Entering Text
+2015-10-07 12:04:14 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:04:19 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:04:19 INFO : Entering Text
+2015-10-07 12:04:19 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:04:25 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:04:26 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:04:26 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt becomes invisible
+2015-10-07 12:04:28 DEBUG: Checking the presence of the Element: name;Dashboard : name;Dashboard
+2015-10-07 12:04:28 DEBUG: Element is present: By.name: Dashboard
+2015-10-07 12:04:29 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/logout_txt
+2015-10-07 12:04:29 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/logout_txt becomes invisible
+2015-10-07 12:04:30 DEBUG: Checking the presence of the Visble: id;com.pearson.android.pulse.dev:id/logout_txt : id;com.pearson.android.pulse.dev:id/logout_txt
+2015-10-07 12:04:39 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:04:39 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:04:39 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:04:39 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:04:39 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:04:39 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:04:40 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:04:40 INFO : Entering Text
+2015-10-07 12:04:40 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:04:46 INFO : Entered invalid@invalid.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:04:46 INFO : Entering Text
+2015-10-07 12:04:46 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:04:52 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:04:53 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:04:53 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 12:04:55 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:04:55 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:05:03 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:05:03 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:05:03 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:05:03 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:05:04 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:05:04 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:05:05 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:05:05 INFO : Entering Text
+2015-10-07 12:05:05 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:05:10 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:05:10 INFO : Entering Text
+2015-10-07 12:05:10 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:05:16 INFO : Entered invalid12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:05:17 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:05:17 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 12:05:25 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:05:25 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:05:34 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:05:34 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:05:34 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:05:34 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:05:35 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:05:35 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:05:35 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:05:35 INFO : Entering Text
+2015-10-07 12:05:35 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:05:40 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:05:40 INFO : Entering Text
+2015-10-07 12:05:40 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:05:46 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:05:46 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:05:46 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 12:05:46 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:05:47 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:05:56 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:05:56 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:05:56 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:05:56 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:05:56 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:05:56 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:05:57 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:05:57 INFO : Entering Text
+2015-10-07 12:05:57 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:06:03 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:06:03 INFO : Entering Text
+2015-10-07 12:06:03 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:06:08 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:06:09 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:06:09 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 12:06:09 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:06:09 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:06:18 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:06:18 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:06:18 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:06:18 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:06:19 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:06:19 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:06:19 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:06:19 INFO : Entering Text
+2015-10-07 12:06:19 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:06:25 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:06:25 INFO : Entering Text
+2015-10-07 12:06:25 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:06:31 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:06:31 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:06:31 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 12:06:32 INFO : Waiting until the text password is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:06:32 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 12:06:41 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:06:41 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:06:41 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:06:41 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:06:41 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:06:41 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:06:42 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:06:42 INFO : Entering Text
+2015-10-07 12:06:42 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:06:47 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:06:47 INFO : Entering Text
+2015-10-07 12:06:47 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:06:53 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:06:54 INFO : Rotated screen to LANDSCAPE
+2015-10-07 12:06:54 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 12:06:54 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 12:06:54 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 12:06:54 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 12:06:54 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 12:06:55 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 12:06:55 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:06:55 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:06:55 INFO : Rotated screen to LANDSCAPE
+2015-10-07 12:06:55 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 12:06:55 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 12:06:55 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 12:06:55 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 12:06:55 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 12:06:56 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 12:06:56 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:06:56 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 12:07:04 INFO : Set device screen in PORTRAINT mode
+2015-10-07 12:07:04 INFO : Checking for TestFairy Security Popup
+2015-10-07 12:07:04 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 12:07:04 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 12:07:04 INFO : Clicked on element: By.name: Yes
+2015-10-07 12:07:04 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 12:07:05 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 12:07:05 INFO : Entering Text
+2015-10-07 12:07:05 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 12:07:11 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 12:07:11 INFO : Entering Text
+2015-10-07 12:07:11 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 12:07:16 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 12:07:17 INFO : Screen will be locked for 5 seconds
+2015-10-07 12:07:17 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 12:07:18 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:04:57 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:04:57 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:04:57 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:04:57 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:04:58 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:04:58 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:04:59 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:04:59 INFO : Entering Text
+2015-10-07 15:04:59 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:05:05 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:05:05 INFO : Entering Text
+2015-10-07 15:05:05 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:05:11 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:05:12 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:05:12 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt becomes invisible
+2015-10-07 15:05:15 DEBUG: Checking the presence of the Element: name;Dashboard : name;Dashboard
+2015-10-07 15:05:15 DEBUG: Element is present: By.name: Dashboard
+2015-10-07 15:05:16 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/logout_txt
+2015-10-07 15:05:16 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/logout_txt becomes invisible
+2015-10-07 15:05:17 DEBUG: Checking the presence of the Visble: id;com.pearson.android.pulse.dev:id/logout_txt : id;com.pearson.android.pulse.dev:id/logout_txt
+2015-10-07 15:05:26 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:05:26 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:05:26 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:05:26 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:05:26 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:05:26 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:05:27 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:05:27 INFO : Entering Text
+2015-10-07 15:05:27 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:05:33 INFO : Entered invalid@invalid.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:05:33 INFO : Entering Text
+2015-10-07 15:05:33 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:05:39 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:05:39 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:05:39 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 15:05:41 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:05:41 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:05:50 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:05:50 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:05:50 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:05:50 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:05:50 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:05:50 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:05:51 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:05:51 INFO : Entering Text
+2015-10-07 15:05:51 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:05:57 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:05:57 INFO : Entering Text
+2015-10-07 15:05:57 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:06:02 INFO : Entered invalid12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:06:03 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:06:03 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 15:06:05 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:05 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:14 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:06:14 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:06:14 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:06:14 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:06:15 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:06:15 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:06:16 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:06:16 INFO : Entering Text
+2015-10-07 15:06:16 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:06:21 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:06:21 INFO : Entering Text
+2015-10-07 15:06:21 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:06:26 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:06:26 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:06:26 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 15:06:26 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:26 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:35 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:06:35 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:06:35 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:06:35 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:06:36 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:06:36 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:06:37 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:06:37 INFO : Entering Text
+2015-10-07 15:06:37 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:06:41 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:06:41 INFO : Entering Text
+2015-10-07 15:06:41 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:06:46 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:06:47 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:06:47 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 15:06:48 INFO : Waiting until the text user name is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:48 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:06:57 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:06:57 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:06:57 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:06:57 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:06:57 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:06:57 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:06:59 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:06:59 INFO : Entering Text
+2015-10-07 15:06:59 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:07:04 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:07:04 INFO : Entering Text
+2015-10-07 15:07:04 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:07:10 INFO : Entered  into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:07:10 INFO : Clicked on element: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:07:10 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/errorTxt is displayed
+2015-10-07 15:07:11 INFO : Waiting until the text password is displayed on the elementBy.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:07:11 INFO : Getting the text of the element: By.id: com.pearson.android.pulse.dev:id/errorTxt
+2015-10-07 15:07:19 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:07:19 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:07:19 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:07:19 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:07:21 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:07:21 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:07:22 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:07:22 INFO : Entering Text
+2015-10-07 15:07:22 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:07:27 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:07:27 INFO : Entering Text
+2015-10-07 15:07:27 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:07:33 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:07:34 INFO : Rotated screen to LANDSCAPE
+2015-10-07 15:07:34 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:07:34 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:07:34 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 15:07:34 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 15:07:34 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 15:07:35 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 15:07:35 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:07:35 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:07:35 INFO : Rotated screen to LANDSCAPE
+2015-10-07 15:07:35 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:07:36 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:07:36 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/email_edt_txt : id;com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 15:07:36 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/email_edt_txt
+2015-10-07 15:07:36 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/password_edt_txt : id;com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 15:07:36 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/password_edt_txt
+2015-10-07 15:07:36 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/sign_btn : id;com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:07:36 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/sign_btn
+2015-10-07 15:07:44 INFO : Set device screen in PORTRAINT mode
+2015-10-07 15:07:44 INFO : Checking for TestFairy Security Popup
+2015-10-07 15:07:44 DEBUG: Checking the presence of the Element: name;NOTICE : name;NOTICE
+2015-10-07 15:07:44 DEBUG: Element is present: By.name: NOTICE
+2015-10-07 15:07:44 INFO : Clicked on element: By.name: Yes
+2015-10-07 15:07:44 INFO : Waiting until the element By.name: NOTICE becomes invisible
+2015-10-07 15:07:46 INFO : Waiting until the elements specified by By.id: com.pearson.android.pulse.dev:id/signIn_txt are displayed
+2015-10-07 15:07:46 INFO : Entering Text
+2015-10-07 15:07:46 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/email_edt_txt is displayed
+2015-10-07 15:07:51 INFO : Entered ram@example.com into the id;com.pearson.android.pulse.dev:id/email_edt_txt text field
+2015-10-07 15:07:51 INFO : Entering Text
+2015-10-07 15:07:51 INFO : Waiting until the element By.id: com.pearson.android.pulse.dev:id/password_edt_txt is displayed
+2015-10-07 15:07:57 INFO : Entered secret12 into the id;com.pearson.android.pulse.dev:id/password_edt_txt text field
+2015-10-07 15:07:57 INFO : Screen will be locked for 5 seconds
+2015-10-07 15:07:57 DEBUG: Checking the presence of the Element: id;com.pearson.android.pulse.dev:id/signIn_txt : id;com.pearson.android.pulse.dev:id/signIn_txt
+2015-10-07 15:07:58 DEBUG: Element is present: By.id: com.pearson.android.pulse.dev:id/signIn_txt

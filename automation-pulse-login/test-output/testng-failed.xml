@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.pulselms.app.test.LoginTestAndroid">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUpMethod"/>
+          <include name="TC006_SigninVerificationOfErrorMessageForBothFieldsBlank"/>
+          <include name="tearDown"/>
+          <include name="TC017_SigninVerfiyingApplicationAfterDeviceIsLocked"/>
+        </methods>
+      </class> <!-- com.pulselms.app.test.LoginTestAndroid -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

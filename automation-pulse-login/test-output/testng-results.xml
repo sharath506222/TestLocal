@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="193498" started-at="2015-10-07T09:34:46Z" finished-at="2015-10-07T09:38:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="193498" started-at="2015-10-07T09:34:46Z" finished-at="2015-10-07T09:38:00Z">
+      <class name="com.pulselms.app.test.LoginTestAndroid">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUp" is-config="true" duration-ms="16" started-at="2015-10-07T15:04:46Z" finished-at="2015-10-07T15:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="11085" started-at="2015-10-07T15:04:46Z" finished-at="2015-10-07T15:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC001_SigninVerificationOfSuccessfulLogin()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC001_SigninVerificationOfSuccessfulLogin" duration-ms="19769" started-at="2015-10-07T15:04:57Z" finished-at="2015-10-07T15:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_SigninVerificationOfSuccessfulLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="909" started-at="2015-10-07T15:05:17Z" finished-at="2015-10-07T15:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="7739" started-at="2015-10-07T15:05:18Z" finished-at="2015-10-07T15:05:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC003_SigninVerificationOfErrorMessageForInvalidEmailId()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC003_SigninVerificationOfErrorMessageForInvalidEmailId" duration-ms="15899" started-at="2015-10-07T15:05:26Z" finished-at="2015-10-07T15:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003_SigninVerificationOfErrorMessageForInvalidEmailId -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="662" started-at="2015-10-07T15:05:41Z" finished-at="2015-10-07T15:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="7571" started-at="2015-10-07T15:05:42Z" finished-at="2015-10-07T15:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC004_SigninVerificationOfErrorMessageForInvalidPassword()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC004_SigninVerificationOfErrorMessageForInvalidPassword" duration-ms="15678" started-at="2015-10-07T15:05:50Z" finished-at="2015-10-07T15:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004_SigninVerificationOfErrorMessageForInvalidPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="706" started-at="2015-10-07T15:06:05Z" finished-at="2015-10-07T15:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="8013" started-at="2015-10-07T15:06:06Z" finished-at="2015-10-07T15:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="FAIL" signature="TC006_SigninVerificationOfErrorMessageForBothFieldsBlank()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC006_SigninVerificationOfErrorMessageForBothFieldsBlank" duration-ms="12492" started-at="2015-10-07T15:06:14Z" finished-at="2015-10-07T15:06:27Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please enter your email address/user name. Please enter your password.] but found [Please enter your email address/user name.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please enter your email address/user name. Please enter your password.] but found [Please enter your email address/user name.]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at com.pulselms.app.test.LoginTestAndroid.TC006_SigninVerificationOfErrorMessageForBothFieldsBlank(LoginTestAndroid.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006_SigninVerificationOfErrorMessageForBothFieldsBlank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="661" started-at="2015-10-07T15:06:27Z" finished-at="2015-10-07T15:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="7871" started-at="2015-10-07T15:06:27Z" finished-at="2015-10-07T15:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC007_SigninVerificationOfErrorMessageIfUserNameIsBlank()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC007_SigninVerificationOfErrorMessageIfUserNameIsBlank" duration-ms="12873" started-at="2015-10-07T15:06:35Z" finished-at="2015-10-07T15:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007_SigninVerificationOfErrorMessageIfUserNameIsBlank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="870" started-at="2015-10-07T15:06:48Z" finished-at="2015-10-07T15:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="8030" started-at="2015-10-07T15:06:49Z" finished-at="2015-10-07T15:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC008_SigninVerificationOfErrorMessageIfPasswordIsBlank()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC008_SigninVerificationOfErrorMessageIfPasswordIsBlank" duration-ms="14161" started-at="2015-10-07T15:06:57Z" finished-at="2015-10-07T15:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008_SigninVerificationOfErrorMessageIfPasswordIsBlank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="527" started-at="2015-10-07T15:07:11Z" finished-at="2015-10-07T15:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="7698" started-at="2015-10-07T15:07:12Z" finished-at="2015-10-07T15:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TC016_SigninVerfiyingBehaviorOfApplicationAfterOrientationChange()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC016_SigninVerfiyingBehaviorOfApplicationAfterOrientationChange" duration-ms="16433" started-at="2015-10-07T15:07:19Z" finished-at="2015-10-07T15:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC016_SigninVerfiyingBehaviorOfApplicationAfterOrientationChange -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="713" started-at="2015-10-07T15:07:36Z" finished-at="2015-10-07T15:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="setUpMethod" is-config="true" duration-ms="7585" started-at="2015-10-07T15:07:36Z" finished-at="2015-10-07T15:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="FAIL" signature="TC017_SigninVerfiyingApplicationAfterDeviceIsLocked()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="TC017_SigninVerfiyingApplicationAfterDeviceIsLocked" duration-ms="13703" started-at="2015-10-07T15:07:44Z" finished-at="2015-10-07T15:07:58Z">
+          <exception class="com.pulselms.app.framework.BrowserBotException">
+            <message>
+              <![CDATA[Invalid element locator parameter -ram@example.com]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.pulselms.app.framework.BrowserBotException: Invalid element locator parameter -ram@example.com
+	at com.pulselms.app.framework.ObjectLocators.getBySelector(ObjectLocators.java:129)
+	at com.pulselms.app.framework.WebDriverBase.isElementPresent(WebDriverBase.java:626)
+	at com.pulselms.app.screen.LoginScreenAndroid.isEmailTextPresent(LoginScreenAndroid.java:93)
+	at com.pulselms.app.test.LoginTestAndroid.TC017_SigninVerfiyingApplicationAfterDeviceIsLocked(LoginTestAndroid.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:648)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:834)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1142)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1176)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1101)
+	at org.testng.TestNG.run(TestNG.java:1009)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.pulselms.app.framework.BrowserBotException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC017_SigninVerfiyingApplicationAfterDeviceIsLocked -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pulselms.app.test.LoginTestAndroid@93dd95]" name="tearDown" is-config="true" duration-ms="1754" started-at="2015-10-07T15:07:58Z" finished-at="2015-10-07T15:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pulselms.app.test.LoginTestAndroid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

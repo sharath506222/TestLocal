@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pulse-LMS" configfailurepolicy="skip">
+	<listeners>
+		<listener class-name="com.pulselms.app.framework.CustomListeners" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	</listeners>
+
+	<test name="PulseLms Test Cases" configfailurepolicy="skip">
+		<classes>
+			<class name="com.pluselms.webportal.test.MyDashboardTest" >
+			
+			</class>
+		</classes>
+	</test>
+</suite>

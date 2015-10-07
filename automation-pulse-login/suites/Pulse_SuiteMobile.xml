@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pulse-LMS" configfailurepolicy="skip" >
+       <listeners> 
+              <listener class-name="com.pulselms.app.framework.CustomListeners" />   
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+ 
+  <test name="PulseAutomationCases" configfailurepolicy="skip">
+		<classes>			
+			<class name="com.pulselms.app.test.LoginTestAndroid" />
+ 		</classes>
+		</test>
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pulselms" configfailurepolicy="skip" >
+       <listeners> 
+              <listener class-name="com.pulselms.app.framework.CustomListeners" />   
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+ 
+  <test name="Pulselms Test Cases" configfailurepolicy="skip">
+		<classes>			
+			<class name="com.pulselms.webportal.test.LoginTest" />
+			
+ 		</classes>
+   </test>
+</suite>
